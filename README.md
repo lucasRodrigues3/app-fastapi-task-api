@@ -1,4 +1,4 @@
-# Lucas API
+# Task manager API
 
 Simple task management API built with FastAPI and SQLite.
 
